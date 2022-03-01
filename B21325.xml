@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the most honorable the high court of Parliament assembled, &amp;c.</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21325</idno>
+            <idno type="STC">Wing D2015</idno>
+            <idno type="EEBO-CITATION">12209852</idno>
+            <idno type="OCLC">ocm 12209852</idno>
+            <idno type="VID">200073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21325)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200073)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 244:E96, no 19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the most honorable the high court of Parliament assembled, &amp;c.</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>4, 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Each part has caption title.</note>
+                  <note>Signed: Eleanor.</note>
+                  <note>Followed by: Samsons legacie. Formerly D2011 (number cancelled in Wing 2nd. ed., 1994); register is continuous.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb facs="tcp:200073:1" rendition="simple:additions"/>
+            <head>TO THE MOST HONORABLE THE HIGH COVRT OF <hi>PARLJAMENT</hi> ASSEMBLED, &amp;c.</head>
+            <opener>
+               <salute>MY <hi>LORDS;</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Her's a <hi>Time for every thing under the Sunne,</hi> and if any; for to bee abrupt and breife in ever, tis <hi>NOW</hi> when <hi>Time</hi> ſo precious is with your Lordſhips: under the Sunne
+<pb n="2" facs="tcp:200073:2"/>there is nothing but a ſupernaturall Courſe to be taken, Touching the <hi>Cure</hi> of ſuch un<g ref="char:EOLhyphen"/>naturall condition'd <hi>Times:</hi> The Almightie his VVord the only <hi>Balme</hi> then, and <hi>Sove<g ref="char:EOLhyphen"/>raigne</hi> remedy when ye have tryd all: If any therefore doe amiſſe and miſcarry of you. Blame your ſelves none but the <hi>Parliament:</hi> For I ſhall of no little <hi>Burthen</hi> diſcharge my ſelfe here who can but ſay, and tell you. I have a receipt of ſuch rare opperation and vertue given me; That within few dayes it ſhall bring Him againe to Himſelf, I meane the <hi>KING;</hi> after abſent ſo long from his <hi>Parliament:</hi> whoſe Character if ye pleaſe to obſerve; This is his:</p>
+            <p>
+               <hi>He that no Chaines could binde him,</hi> (Marke Evangeliſt the 5<hi rend="sup">th.</hi>) <hi>That had been often bound with fetters and with Chaines pluck'd aſſunder by him. And the fetters broken in pieces, neither
+<pb n="3" facs="tcp:200073:2"/>could by any man be tamed;</hi> as much to ſay, <hi>neither</hi> Oath, <hi>nor</hi> word, <hi>or</hi> promiſe <hi>availing, or any reaſon of force to parſwade with Him, as the</hi> Holy Ghoſt ſpeaking plaine: <hi>by that adjuring in</hi> Gods Name; <hi>and by asking his</hi> Name <hi>too, ſaying,</hi> LEGION, <hi>for they were many, who ſpake not with the Leſt:</hi> Nevertheleſſe, not more feirce then fearefull of the <hi>Lords</hi> com<g ref="char:EOLhyphen"/>ming, <hi>this man wounding himſelf thus.</hi>
+            </p>
+            <p>And thus have made tender unto your Lordſhips, Of my ſervice, whether or no yee accept thereof: for to bring His Majeſtie to you, Setting as afore time cloath'd, &amp;c. And doing withall what Ye ſhall aske or de<g ref="char:EOLhyphen"/>ſire. As for the Caveliers what They ſhall doe all of them, even crave a Paſſe here, to take Shipping for the <hi>Low-Countries,</hi> and <hi>Germanie</hi> to be gone away; the <hi>Boors</hi> will entertaine them willingly, S<hi rend="sup">t.</hi> 
+               <hi>Matt:</hi> the 8.
+<pb n="4" facs="tcp:200073:3"/>
+               <hi>gives Notice of two, ſo exceeding feirce that none might paſſe by that way,</hi> to wit, that Dutch Duke, or Prince poſſeſſed with an uncleane Spirit, out of his VVITS; he to returne alſo without delay Home againe, beyond Sea.</p>
+            <closer>
+               <signed>VVaiting on your <hi>Lordſhips Commands</hi> ELEANOR.</signed>
+               <dateline>
+                  <date>1642. The 3<hi rend="sup">d.</hi> of <hi>January.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>The Holy Ghoſts</hi> New-yeares-gift.</p>
+            </postscript>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:200073:3"/>
+            <head>SAMSONS LEGACIE.</head>
+            <head type="sub">
+               <hi>J<g ref="char:V">Ʋ</g>DGES,</hi> the 16. Chap. &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Nd as inſtanc'd or brought to <hi>his</hi> Tryall, here found light; <hi>SAMSON</hi> guiltie that way: which <hi>Vow</hi> of his, had he unhap<g ref="char:EOLhyphen"/>pily not violated, a buſi<g ref="char:EOLhyphen"/>neſſe that: Of no mean weight, what <hi>Fet<g ref="char:EOLhyphen"/>ters of Braſſe bound him had;</hi> none of what kinde ſoever. <hi>Samſons fall, loſt himſelf here<g ref="char:EOLhyphen"/>by, diſpoſſeſſed of the</hi> Spirit <hi>of the</hi> LORD.</p>
+            <pb n="2" facs="tcp:200073:4"/>
+            <p>By him diſcovered <hi>the Almighties counſell unto the</hi> Lords <hi>Enemy, could not with-hold or refraine, told her all his heart;</hi> ſhe acquainted is therewith bee it whatſoever: Such a blind thing is <hi>Love;</hi> They into ſuch Thral<g ref="char:EOLhyphen"/>dom brought which harbour it: ſuſpected nothing becauſe he <hi>lov'd</hi> her, or <hi>doted rather.</hi> That whoſoever they were, was able with a looke of his <hi>Browe,</hi> to put them for ever to ſilence, wherein his ſoul ſo farre ingag'd, any to attempt but the motion, &amp;c.</p>
+            <p>And farther ſhewed, how in his <hi>allegi<g ref="char:EOLhyphen"/>ance having toward his Maſter and Lord fayled: Both ſtript of that great ſtrength of his, Loſt both his</hi> Eies, <hi>not only boord or put out,</hi> faine to be lead afterwards by a Ladd: But <hi>put in priſon, beſide grinding in a Mill:</hi> To taſt of reſtleſſe HELL, that weariſome be<g ref="char:EOLhyphen"/>ing. <hi>Even</hi> takes <hi>Eſsaye</hi> of our <hi>Saviours Cup;</hi> indeede theſe in ſome things to <hi>Samſon</hi> be<g ref="char:EOLhyphen"/>long onely: able but for to turne his wea<g ref="char:EOLhyphen"/>ry
+<pb n="3" facs="tcp:200073:4"/>ſides without other help, or by a wals ſide <hi>to</hi> go, which before had <hi>The Lord his ſupport; The</hi> Philiſtims <hi>his Lords now:</hi> a heavie change, of no other eſtate worthy, had taken his pleaſure and ſo came of it.</p>
+            <p>
+               <hi>One</hi> Truſted with that high place of Go<g ref="char:EOLhyphen"/>vernment: Twenty yeares therabout, as it appeares. Crownd with ſo many favours; That had the <hi>Eternall words direction his light:</hi> ſet ſo light by alhough chaſtiſed never ſo ſe<g ref="char:EOLhyphen"/>verly the bage of his Maſters heavy diſ<g ref="char:EOLhyphen"/>pleaſure, none commiſerate his Complaint bee it whatſoever, <hi>whether marked, ſhorne or noted.</hi> He <hi>which wiſt not the</hi> Spirit <hi>of the Lord was departed from him, when</hi> He <hi>had fooliſhly departed from the Lord:</hi> And if GOD ſpared not <hi>Samſon,</hi> others much leſſe that have him for their leſſon.</p>
+            <p>who could have ſuppoſed, warn'd before hand too, what truſt to be repoſed in them. That upon a VVomans aſſault her charms
+<pb n="4" facs="tcp:200073:5"/>ſuch a Forte rendered up: without any reaſon rendred <hi>But to pleaſe</hi> Her, <hi>was not that Riddle diſcloſd enough:</hi> who would not have layd another wager, as great as <hi>Sam<g ref="char:EOLhyphen"/>ſons?</hi> That this man could never have been over taken ſo, that had been miſtaken ſo much in Her before, <hi>named his Heifer;</hi> and <hi>this</hi> woman ſhe of the <hi>Philiſtims</hi> breed too, both of them one in effect: or two wit<g ref="char:EOLhyphen"/>neſſes appearing as it were: Herewithall bidden to take heed all, of Cloſe-under<g ref="char:EOLhyphen"/>hand-dealers: For <hi>the holy Ghoſt</hi> is not with<g ref="char:EOLhyphen"/>out a double, or two-fold meaning in <hi>theſe</hi> thirty <hi>Shirts</hi> wrap'd <hi>up,</hi> &amp; thirty <hi>Shutes thoſe;</hi> not only <hi>Judas</hi> His livery-Coates <hi>or Coate<g ref="char:EOLhyphen"/>armes expreſsing, but our bleeding dayes</hi> where<g ref="char:EOLhyphen"/>in ſuch Plundering and <hi>intolerable</hi> Theifts:</p>
+            <p>For which betraying of the truſt, as one beſide himſelf; beſide being a Priſoner, made a by-word, or one for a meane Oc<g ref="char:EOLhyphen"/>cupation fitter, or truſted when <hi>His eyes bee out rather then other-wiſe: In ſteed of a</hi> Savi<g ref="char:EOLhyphen"/>our
+<pb n="5" facs="tcp:200073:5"/>
+               <hi>or</hi> Deliverer, <hi>hee delivered into the hands of ſuch, &amp;c.</hi> VVhich kindneſſe for; To none other <hi>Bound, but to Her:</hi> beſide <hi>his</hi> willfulneſſe, <hi>whoſe Parents</hi> ſome-time could not prevaile with <hi>Him,</hi> or any other: Is du<g ref="char:EOLhyphen"/>ring the remnant <hi>of his wretched dayes,</hi> or<g ref="char:EOLhyphen"/>dain'd for to beare <hi>thoſe ſhakels and fetters,</hi> Braſſen ones for ſuretiſhip, and better ſecu<g ref="char:EOLhyphen"/>ritie: <hi>Thus armed by Her from Head to Foote &amp;c.</hi>
+            </p>
+            <p>But <hi>her</hi> Ladyſhip <hi>urged him, She preſt him</hi> Daily, vext his Soule, his Conſcience to the <hi>Death.</hi> Moreover, by <hi>Lulling of him as much againe, was kept in a Dreame, untill</hi> layd <hi>himſelf flat at her</hi> Feet: By ſuch maine <hi>Strength</hi> was <hi>Samſon</hi> over-maſtred by his <hi>Miſtres,</hi> who <hi>ſo often</hi> gives the <hi>Allarum;</hi> The <hi>Philiſtins</hi> SAMSON, &amp;c.</p>
+            <p>But to bring theſe home a little <hi>farther,</hi> to theſe laſt dayes, without Over-laying Your patience <hi>I hope,</hi> ſhewed great <hi>Brit<g ref="char:EOLhyphen"/>tains low ebbe,</hi> like <hi>Samſon what paſse brought to.</hi>
+            </p>
+            <pb n="6" facs="tcp:200073:6"/>
+            <p>
+               <hi>The worlds</hi> wounder <hi>for blesſing and boun<g ref="char:EOLhyphen"/>ty from above beyond all theirs not unknowne;</hi> a dreadfull Name, <hi>farre</hi> and <hi>neere:</hi> Now by His Majeſties <hi>warfare</hi> being <hi>fettered</hi> and in <hi>Armes;</hi> become the game and muſicke of the VVorld.</p>
+            <p>Thoſe (as it were) away <hi>hidding</hi> and <hi>run<g ref="char:EOLhyphen"/>ning before time,</hi> crowding as faſt, and cover<g ref="char:EOLhyphen"/>ing <hi>houſe-tops,</hi> feareleſſe <hi>now</hi> of <hi>Samſon.</hi> In which difference difficult to judge; whe<g ref="char:EOLhyphen"/>ther <hi>for Might and Majeſtie</hi> more reve<g ref="char:EOLhyphen"/>renced, then dejected at laſt and diſpiſed: Certainly manifeſted as <hi>great Imbecillitie in ſubjecting himſelfe to a Womans waywardneſſe, therewith carryed</hi> away <hi>ſo and tranſported.</hi>
+            </p>
+            <p>But theſe not for diſputationſake; but made for diſpatch, not ſo wide and full of ſtuffe as others are acknowledged: If it ſit cloſe, tis as becoming <hi>Joſeph</hi> in makeing himſelf known to his Brethren, in haſt told them, I am <hi>Joſeph:</hi> So now it was not you that ſent mee hether, but GOD</p>
+            <p>So was it of the Lord; no thanke to <hi>Samſon, Sam<g ref="char:EOLhyphen"/>ſons ſaying, ſhe pleaſeth me well: When nevertheleſſe it
+<pb n="7" facs="tcp:200073:6"/>diſpleaſed his Father and Mother. They ſaying; is there never a Woman among thy Brethren or people, &amp;c.</hi>
+            </p>
+            <p>The almightie for bringing his owne Counſell and purpoſe to paſſe; ſuffers much, and forbeares long: the Holy Ghoſt thus ſaying, hee ſought an oc<g ref="char:EOLhyphen"/>caſion againſt the <hi>Philiſtins,</hi> GOD on his ſide, he needs not feare any. The Time was come of their fall: at laſt which ſtricks home, though hardly like the Thunder at firſt heard.</p>
+            <p>And to be ſom-what lowder, or plain herein: was not an occaſion ſought alſo againſt that Houſe of Lords and Commons, by that unexpected progreſſe without <hi>Preſident</hi> or Example of Progenitors, when he ſeparated Himſelf from his Head-Kingdoms. Par<g ref="char:EOLhyphen"/>liament Aſſembled then, for rooting that Slip out, blind <hi>Heriſie Her</hi> Maieſties <hi>darling,</hi> grown unto ſuch a height. Without doubt with as ill, or worſe ſuc<g ref="char:EOLhyphen"/>ceſſe taken in hand, then hee which but loſt his life, good <hi>Samſon:</hi> When the Houſe of Peeres and Com<g ref="char:EOLhyphen"/>mons thoſe two Pillars, charged with a heavie taxe of <hi>Treaſon,</hi> purpoſing to lay violent hands next: firſt rob'd of their good Name; and then of their Life laſtly, brought about by Lyers in waite for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat pur<g ref="char:EOLhyphen"/>poſe. And thus his cauſleſſe falling out, the occaſion of theſe ſuch unſpeakable miſeries; He carried away
+<pb n="8" facs="tcp:200073:7"/>from His Parliament thus, by the Church of the LIBERTINES and ROMES CHVRCH, proceeding from a looſneſſe or careleſneſſe of good<g ref="char:EOLhyphen"/>neſſe: the good affection not ſet by of thoſe, to have been Equaliz'd, if not preferr'd before Forreine ſtates; a greater Honour then proginey (common to all) to diſcharge ſuch a Stewardſhip well. The office of a Crowne (<hi>a good name, Proverbs.</hi> 22) as our Eies open'd, and Wofull evidences thereby gi<g ref="char:EOLhyphen"/>ven to underſtand: That not old <hi>Samuel,</hi> godly <hi>Queene Elizabeth</hi> was rejected, tender hearted unto every one. But herewith wee which were not con<g ref="char:EOLhyphen"/>tent: But nay, we will have a King to reigne over us, whatſoever coming to paſſe.</p>
+            <p>How ſoone verified, the old true proverbe, ſel<g ref="char:EOLhyphen"/>dome comes a better: for unto <hi>Samſon</hi> as at his end; ſo befallen us More ſlaine in one yeare, then ſince the Conqueſt in the Reigne of ſo many Kings and Queenes of them cald to ſacrifice their Lives for the Truths teſtimony: commanded to reſt a little ſeaſon. Bleſſed innocents were who changed have their ſcar<g ref="char:EOLhyphen"/>let for white robes, <hi>calling a loud, how long O Lord</hi> Revela. 6. &amp;c.</p>
+            <p>And every haire of Times head grown precious, never recald; and if ever perrilous to looſe it, as tis now reveal'd here; and unloos'd the miſtery of time,
+<pb n="9" facs="tcp:200073:7"/>how <hi>Samſons ſeven-fold ropes pluck'd aſunder, even drawn from them; like</hi> Pharaohs <hi>double Dreame,</hi> where the thing was one, likewiſe theſe broken <hi>Withes and ropes</hi> reach to this ſevententh hundered yeare preſent not a<g ref="char:EOLhyphen"/>lone; But to that ſevententh yeare of the Kings reigne, a time of greater famine then <hi>Pharaohs,</hi> when the plentie was not known, by reaſon of the ſcarcity following ſo grevi<g ref="char:EOLhyphen"/>ous.</p>
+            <p>And now great <hi>Brittaine</hi> newly ſo ſtiled, accompanied with no few Honours that ſtarted up, have in this ſevententh hundred yeare; Even as thoſe knots undone all and broken, with <hi>Jrelands</hi> green plantation by the rootes pluck'd up: This <hi>knot or union ſo faſt made, how is it come to nothing, but all up making ready in Armes;</hi> that beſide a <hi>Coate<g ref="char:EOLhyphen"/>armes</hi> borne, no other appearance at all re<g ref="char:EOLhyphen"/>mains, ſuddenly like <hi>his armes</hi> become <hi>when be awaked; great Brittains peace even ſo brittle ſtands as thoſe ropes, &amp;c. Compard unto towe,
+<pb n="10" facs="tcp:200073:8"/>or a piece of thred, choaked with Match and Powder now:</hi> for the ſweet ſents of <hi>peace</hi> and <hi>plenty</hi> injoyed Long: And handled <hi>Thus:</hi> Notwithſtanding, not unfore-told. None <hi>Conſiders of that hand writing,</hi> though <hi>in</hi> the Yeare, 1633. ſhewing, His Kingdome is devided and numbred &amp;c. <hi>Belſhazzar, it ſhall be eaſier for him in the day of Judgement.</hi>
+            </p>
+            <p>By the Prophet <hi>Jeremiah: PASH<g ref="char:V">Ʋ</g>R which ſmote him, was rebaptiz'd:</hi> VVho gave him that Name Compounded as unluckie as it was Long; <hi>MA: GORMIS Sabib namely reſtles or feare round about being no leſſe</hi> then great Brittains very <hi>Motto:</hi> VVherefore to make it good unto His Ma<g ref="char:EOLhyphen"/>jeſtie two Names be attributed a God<g ref="char:EOLhyphen"/>fathers and Godmothers here: toward his regeneration Baptized in their teares, for <hi>Salt that is wanting.</hi> Now from <hi>Samſon: JAMES</hi> SON derived, and alſo Mother <hi>Rachels</hi> Name; hers added: drawne from <hi>CHARLES,</hi> to weare it
+<pb n="11" facs="tcp:200073:8"/>for a Favour, as long as he lives here; <hi>weep<g ref="char:EOLhyphen"/>ing becauſe they were Not,</hi> or were loſt, <hi>would not be comforted &amp;c.</hi>
+            </p>
+            <p>The Lyon become a Noted ſheep, ſig<g ref="char:EOLhyphen"/>nifies: <hi>for Rachell is a ſheep,</hi> but herewith to give nevertheleſſe ſome comfort: <hi>Thy King<g ref="char:EOLhyphen"/>dome come &amp;c.</hi> Then the only remedie when all is done; <hi>Come Lord Jeſus.</hi> For what Thy Kingdomes are come unto, none need to ſhew it: They ſpeake for them<g ref="char:EOLhyphen"/>ſelves, round about plainly: and thus <hi>Sam<g ref="char:EOLhyphen"/>ſons</hi> ſtory their ſtate ſets <hi>forth,</hi> no newes ei<g ref="char:EOLhyphen"/>ther Your hangings and Tapſtery makes it not a ſtranger, but Common blind <hi>Ale-hou<g ref="char:EOLhyphen"/>ſes</hi> not without it, His lying in her Lapp a ſleep, whilſt ſhe pooles him &amp;c.</p>
+            <p>And without ſtreining this <hi>Legacie of his</hi> too, beſids thoſe ropes puld in pieces, which became as ſinged with fire. VVith His <hi>Brazon Chains,</hi> as the one Stands for <hi>Match,</hi> the other toward your pieces of <hi>Ordnance.</hi> Faſtend this alſo on our <hi>Effeminate</hi>
+               <pb n="12" facs="tcp:200073:9"/>time, <hi>his ſeven Locks,</hi> Left to this laſt hun<g ref="char:EOLhyphen"/>dred yeare: ſhewing what weaving and curlling we have of FALSE-HAIRE, by that going away of His, with the <hi>Webbe</hi> faſtend to the <hi>Beame;</hi> whoſe locks therein woven by her: who ſaid; Thou ſayeſt falſe, <hi>(or)</hi> haſt mocked mee, &amp;c. Expresſing <hi>how men forbidden expreſly long Haire, yet the ſonnes of God will weare it:</hi> ſome of them looking thereby more like the ſonns of Di<g ref="char:EOLhyphen"/>vels.</p>
+            <p>And ſo farther, <hi>for the green Withs and new ropes provided of old, long ſince for ſuch Hell<g ref="char:EOLhyphen"/>hounds,</hi> whoſe ſmoaking tongues as Links ſet on fire already, notwithſtanding RA<g ref="char:EOLhyphen"/>CHA, <hi>he who cals his Brother ſo, he ſhall bee in danger of a Counſell, &amp;c.</hi> and ſo much for thoſe <hi>Withs and ropes;</hi> unuſefull neither for great <hi>Brittains Navie and Taklings,</hi> toge<g ref="char:EOLhyphen"/>ther with <hi>Irelands Plow-Taklings</hi> and other uſes, as aforeſaid.</p>
+            <p>And nevertheleſſe like the <hi>Plague-tokens</hi>
+               <pb n="13" facs="tcp:200073:9"/>of their inevitable end: The haſtie Meſſen<g ref="char:EOLhyphen"/>gers, likewiſe ſo many <hi>Judgements</hi> ſent forth ſuddenly forerunners of the dreadfull daies approach: <hi>All prepared alike to meete the Son of God, as thoſe Hoggiſh Gergeſens, when all the Citie came out to meete Him, and beſought him to depart: And now truely fulfilled. The wedding is prepared, but they which were bidden, were not worthy, &amp;c.</hi> (Matth. 22.) <hi>For no<g ref="char:EOLhyphen"/>thing but in eating and drinking, and giving in Marriage, is this your haſtening</hi> To <hi>his Comming? Cleanſing your ſelves of all filthi<g ref="char:EOLhyphen"/>neſſe.</hi> But returning to Times cutting off, which no more returns. That great Man ſealed in the forehead, or front with 1642. <hi>Noahs dayes even ſhall declare the meaning of that ſcentence from our</hi> Saviours mouth; <hi>that no fleſh ſaved except thoſe dayes bee ſhortned,</hi> as much to ſay: <hi>ſhall come ſhort of his dayes, at the time of the</hi> Deluge alluding to it, when all fleſh periſhed, <hi>except eight perſons.</hi>
+            </p>
+            <p>In like manner from <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncarnation,</hi>
+               <pb n="14" facs="tcp:200073:10"/>(when <hi>God became man, thought not ſcorne to take our Nature upon Himſelfe,</hi>) From which time to his ſecond comming, Parral<g ref="char:EOLhyphen"/>lels it Thus. But as the dayes <hi>of Noah</hi> were, ſo ſhall the comming <hi>of the ſonne of Man bee:</hi> For as in the dayes <hi>before the flood, untill the day Noah entered into the Arke. And knew not untill the flood came, and tooke them all away: So ſhall alſo the Com<g ref="char:EOLhyphen"/>ming of the Sonne of Man bee.</hi> And ſo all before the comming of the laſt day alſo <hi>fore<g ref="char:EOLhyphen"/>warnd</hi> to be, appeares plainly (<hi>Matt.</hi> 24.) Dated with the preſent yeare, 1642. <hi>Two ſhalbe in the feild, two</hi> Armes, to wit, <hi>Two wo<g ref="char:EOLhyphen"/>men ſhall be grinding at the</hi> Mill, <hi>&amp;c.</hi> and of our miſerable deviſſion, ſo much for a watch-word ſhall ſerve.</p>
+            <p>The ſeventh Angels Trumpet (<hi>Revela.</hi> 10.) give his voice on <hi>Noahs ſide,</hi> beſide that Angell that ſet his <hi>Right foot upon the ſea, &amp;c.</hi> Whoſe feete as Pillars of fire: with that little Booke open in his hand: Even great <hi>Brittains</hi> revealed forewarning, That Ilands viſſitation: <hi>That there be ſome ſtanding here not only, but throughout the World: that ſhall not taſt death, till the day
+<pb n="15" facs="tcp:200073:10"/>of Judgement.</hi> And ſo take eate this little Booke, the Sacrament of his comming at hand:</p>
+            <p>As herein is no ſmall miſtery Conteind too, two<g ref="char:EOLhyphen"/>fold double Witneſſe appearing like all the reſt: <hi>Judges the</hi> 15.20. <hi>verſe, And he Judged Iſraell twenty yeares, in the dayes of the Philiſtins, &amp;c. verſe</hi> 31. and 16 Chap. <hi>And he Judged Iſraell twenty yeares.</hi>
+            </p>
+            <p>Alſo, when the ſonns of GOD became Tyrants, and carnall (<hi>Gen</hi> 6.) My ſpirit ſhall not ſtrive al<g ref="char:EOLhyphen"/>way with man: for that he alſo is fleſh. <hi>Namely, how great ſoever:</hi> Yet his dayes ſhall bee an hundred and twenty yeares: It includes <hi>Times reigne;</hi> This twen<g ref="char:EOLhyphen"/>ty yeares to be put upon his laſt ſcore. The Prophet <hi>David</hi> foreſaw this weeke (<hi>Pſalm.</hi> 90.) <hi>A thouſand yeares in his ſight, are but as yeſterday.</hi> The Apoſtle <hi>Peter: One day with the Lord, is as a Thouſand yeares, and a Thouſand yeares, as one day. Daniel</hi> the Prophet, that Maſter of <hi>Arrethmatitians:</hi> confirms that weeke thus; <hi>He ſhall confirme his Covenant with many for a weeke, and in the middeſt of the weeke oblation ſhall ceaſe, &amp;c.</hi> The Meſſiah ſlaine, and the Cities Deſolation, to wit; in the fourth Thouſand yeare: Wherein not only ſhewed <hi>Mesſiah</hi> his dayes cut off: but <hi>Time,</hi> the ſonne of Eternitie, his dayes too ſhortned: Even one Thouſand yeares fulfilled, or compleat. For the Goſpels Progreſſe:</p>
+            <p>The 20. of the <hi>Revela:</hi> Thus ſpeakes; <hi>That they
+<pb n="16" facs="tcp:200073:11"/>lived, and reigned with Chriſt, a Thouſand yeares:</hi> before theſe Idolatryous times of late <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> therefore in re<g ref="char:EOLhyphen"/>ſpect of Time paſt, (our Saviours late comming Then.) The Apoſtle <hi>Paul,</hi> after this faſhion ad<g ref="char:EOLhyphen"/>moniſheth. <hi>The Time is ſhort,</hi> as much to ſay; <hi>And to be ſhortned. For which cauſe, as if we poſſeſſed or enjoyed nothing. Corinth.</hi> 7.</p>
+            <p>And here adding but in a word or two, of the LORDS day; that alſo cut off: how this <hi>Samſon</hi> hath been ſhaffed: This <hi>Samſon-day,</hi> how it hath been obſerved and kept, after what ſpirituall faſhion; Even the LORDS houſe haunted by <hi>Spirits of Di<g ref="char:EOLhyphen"/>vels,</hi> no few amongſt thoſe <hi>Tombes, &amp;c.</hi> Holding their Spirituall-Courts there, whoſe daily Office, and Occupation was, before their being caſt out of <hi>Pauls,</hi> Either to make many forſweare themſelves; Or to fill Priſons, with thoſe call'd by them, <hi>Puritans:</hi> and now, <hi>Rownd-Heads.</hi> For which ſenſleſſe, rediculous Name, not amiſſe with the Prophet, to beſtowe theſe for a <hi>Girdle:</hi> alwayes to bee girded with feare, round about <hi>MAGORMISSABIB:</hi> thoſe Characters compounded of GOG, &amp; MA GOG: Compaſſing the <hi>Camp of the beloved Citie of the Saints:</hi> Whoſe number &amp;c. <hi>Revela.</hi> 20. conſiſting of <hi>Papiſts,</hi> the Queenes Armie, and prophaine <hi>Proteſtants,</hi> be<g ref="char:EOLhyphen"/>fore the day of <hi>Judgement,</hi> being let looſe: Theſe like <hi>Herod</hi> and <hi>Pilate,</hi> that were made friends, at variance before.</p>
+            <pb n="17" facs="tcp:200073:11"/>
+            <p>And wherewith obſerv'd, as it deſerves no other, as others have ſerv'd God, profeſ<g ref="char:EOLhyphen"/>ſing themſelves his ſervants, and going con<g ref="char:EOLhyphen"/>trary: as it were your ſervant &amp;c: likewiſe by them as ſuppoſed. Their <hi>Name</hi> but uſed for the abuſing or betraying of their perſon; having firſt craftily gone about to cut the throats of ſo many: by giving them another <hi>Name:</hi> But to return; Thus this Sabboth too diſcarded: not onely Excom<g ref="char:EOLhyphen"/>municating the Lord <hi>prophets and ſervants, &amp;c.</hi> but turned into a Day of Cardding, and Diceing, with ſweating <hi>Paſtimes: Goe for thy labour, ſit downe and</hi> ſpinne, <hi>and</hi> weave; plough, <hi>and</hi> ditch, <hi>from henceforth in the ſweat of thy face Eate thy bread: Come no more into the garden of God;</hi> ſo much for har<g ref="char:EOLhyphen"/>kening to the <hi>Serpents</hi> voice: The flaming Sword beware: <hi>Neither be grieved with him,</hi> crying; <hi>O my ſonne Abſolom my ſonne, my ſonne Abſolom.</hi> (alſo) <hi>O my ſonne Abſolom, O Abſolom my ſonne, my ſonne:</hi> The <hi>Saboths</hi>
+               <pb n="18" facs="tcp:200073:12"/>double <hi>Eclips:</hi> as much to ſay, or twice Chang'd and alter'd: That harkend not to that voice rather, ſaying, <hi>verily my Saboths ſhall ye keepe, even he ſhall be cut off, that wor<g ref="char:EOLhyphen"/>keth thereon.</hi> That day which was given <hi>for</hi> a perpetuall ſigne: <hi>Exodus</hi> 31. &amp;c. No marvell or wonder therefore; our Houſes though visſited by the Spoyler and Plun<g ref="char:EOLhyphen"/>derer with our day-labour, turned into Daies and Nights-warding and watching.</p>
+            <p>Nevertheleſſe, not cut off without de<g ref="char:EOLhyphen"/>claring in the place (of this <hi>Judas-day,</hi> more like then the <hi>Reſurrections</hi>) a lawfull Suc<g ref="char:EOLhyphen"/>ceſſor herewith ſhewed, &amp;c. upon <hi>Ma<g ref="char:EOLhyphen"/>thias-day,</hi> how the Lot fell in the yeare 1633. that Mundaies firſt day of the weeke. In which aforeſaid yeare, the <hi>Beaſt hee alſo aſ<g ref="char:EOLhyphen"/>ſcended then out of the bottomleſſe Pit; The ſon of</hi> perdition: The laſt Arch <hi>B.</hi> gone to his owne place Now; by whom the word of God, in the Moneth <hi>October</hi> 23. was burnd, ſuffered Martyrdome by a Candle, <hi>from his
+<pb n="19" facs="tcp:200073:12"/>owne hand,</hi> at the High-Commisſion board Sacrifiz'd. And at this time, two Armies ſtriving in the fielde for Poſſesſion, and in <hi>Barke-ſhire</hi> and <hi>Oxfordſhire,</hi> where the <hi>Hea<g ref="char:EOLhyphen"/>venly</hi> voice was <hi>heard firſt</hi> at <hi>Englefield-houſe:</hi> The <hi>prime Shire</hi> imediately <hi>carried thereupon</hi> to <hi>Oxfoads</hi> Parliament <hi>to bee publiſhed, &amp;c.</hi> In the <hi>firſt yeare</hi> of the Kings Raigne, it be<g ref="char:EOLhyphen"/>ing a <hi>Roule</hi> a <hi>manuſcript, revealing</hi> the day of Iudgement, &amp;c.</p>
+            <p>For which <hi>Cauſe now</hi> againe, a great <hi>mee<g ref="char:EOLhyphen"/>ting of the Prophets;</hi> as ſometime in the daies <hi>of John,</hi> that <hi>Conjunction then: Jſaiah,</hi> 6. <hi>An ancient</hi> Saint complaining thus, <hi>Woe is mee, I am cut off,</hi> (or undon) <hi>becauſe J am a man of uncleane lips, &amp;c.</hi> VVhen as thoſe Heralds of Armes preſent, <hi>Each of them with ſix wings, twaine they covered their faces with, with twaine covered their feete, with twaine did fly: holy, ho<g ref="char:EOLhyphen"/>ly, holy Lord of hoſtes; cryed one to another, &amp;c. The whole earth is full of thy glory:</hi> And here to bring theſe home to the dayes of <hi>John,</hi> in
+<pb n="20" facs="tcp:200073:13"/>the <hi>Revelation, &amp;c.</hi> prophecying to his <hi>Time,</hi> even to the end of the world; being <hi>Times Voices expreſly:</hi> for no other then a third Sa<g ref="char:EOLhyphen"/>bath to be through the earth, as expreſt by the foure <hi>Beaſts,</hi> and foure <hi>Evangeliſts,</hi> &amp;c. give all their voices alſo, ſaying; <hi>holy, holy, holy, Lord God almightie, which was, which is, and which is to come:</hi> And for more light in this matter; (<hi>Revela.</hi> 4.) <hi>The ſeven Lamps of fire before the Throne, &amp;c. which are called the ſeven Spirits:</hi> ſignifie no other then Mun<g ref="char:EOLhyphen"/>day, to be a Spirituall day. (<hi>Chap.</hi> 5.) Sig<g ref="char:EOLhyphen"/>nified thus, <hi>There ſtood a Lambe in the middeſt of the Elders, having ſeven eies, and ſeven horns, which are the ſeven</hi> Spirits <hi>of God, ſent forth into all the earth:</hi> To wit, <hi>Sunday</hi> the middle Sabbath; the <hi>Eie,</hi> as it were, to the <hi>Gentels,</hi> that great light for ſeventeene hundered yeares ſpace. Likewiſe the Horns, the new Sabbath, <hi>Munday,</hi> as afore ſhewed: As the one proclaming the firſt <hi>Reſurrection</hi> or comming; So the other the Laſt, in the ſe<g ref="char:EOLhyphen"/>venteth
+<pb n="21" facs="tcp:200073:13"/>hundred yeares to be recal'd. And thus our eternall Sabbath, &amp; theſe Sabath<g ref="char:EOLhyphen"/>dayes, both in one, ſealed up in the little Booke.</p>
+            <p>Farthermore, for an addition theſe; ſhewing be<g ref="char:EOLhyphen"/>ſide how the Worlds ages being caſt into three parts. That had not thoſe daies before the Flood, been cut off or ſhortned; the Deluge had not been till <hi>Noahs</hi> Death, which lived 300. Yeares after, &amp;c. <hi>Enoch</hi> his walking with God, confirms it: <hi>Walked with God</hi> 300. yeares after his begetting Children: as much to ſay, weary <hi>Time</hi> three hundred yeares, Comes be<g ref="char:EOLhyphen"/>fore his <hi>Time.</hi> High time of ſuch daies to be disbur<g ref="char:EOLhyphen"/>thened.</p>
+            <p>And to touch this New-day with a coale from the Altar, ſhewed alſo the one even Munday purifi<g ref="char:EOLhyphen"/>ed, and the other remooved: As appeares in that Maſſage ſent <hi>Herod,</hi> who had ſhut up the Lords Meſſenger: Sonne of <hi>Herod</hi> the great ſo Sir Nam'd, That be-headed Him: ſetting abroach his <hi>Blood</hi> for his Birth-day: better he never had been borne: <hi>John</hi> of <hi>too</hi> high a <hi>ſpirit</hi> to feed him with <hi>flattery, tooke</hi> our Saviour for <hi>John</hi> riſen againe, or ſome walking Spirit. The Lord ſends him word of the <hi>Reſurrecti<g ref="char:EOLhyphen"/>on,</hi> ſaying; <hi>go tell that FOX, behold</hi> I <hi>caſt out Divels, and will heale to day, and to morrow, and the third day I
+<pb n="22" facs="tcp:200073:14"/>ſhalbe perfected: Nevertheleſſe I muſt walke to day, and to morrow, and the day following, &amp;c.</hi> bids him doe his worſt; as much to ſay: which Ambaſſage, whe<g ref="char:EOLhyphen"/>ther delivered it were, or no, wee read not.</p>
+            <p>But doubtleſſe for admonition ſpoken unto all ſpi<g ref="char:EOLhyphen"/>rituall <hi>Herods,</hi> neither being curious whether theſe came to her eare, indeavouring rather to unlocke or open the meaning of that. How coming to paſſe, <hi>Herod</hi> or <hi>Hayreod,</hi> to be Sur-named <hi>Reynold the Fox.</hi> Not onely becauſe <hi>John</hi> called our Lord, <hi>Innocent Lambe,</hi> made their prey, but his eare dedicated to her ſo, his <hi>Dalilah.</hi> Very likely he did weare ſome odde Locke, Fox-tayle-like, a ſcourge, as it were, of hayre, portending how, together with his Souldiers, our Saviour ſhould be ſtript, ſcourged, deſpiſed, and moc<g ref="char:EOLhyphen"/>ked by him.</p>
+            <p>Wherefore before that <hi>Eaſter,</hi> this word or mocke ſent him, that before had given his conſent: Onely for a raſh words ſake (as made an eye-wineſſe of his valour) to be-head ſuch a one, for ſuch a woman, partly becauſe of his alliance, &amp;c. Then leſſen him<g ref="char:EOLhyphen"/>ſelfe. His greatneſſe makes himſelfe a fire-brand of Hell rather: And although this Fox, the firſt of that Name, is ſaid to be exceeding glad to ſee <hi>Jeſus,</hi> of whoſe coming then queſtionleſſe he was foretold, in that word ſent unto him; notwithſtanding, to thoſe queſtions of his, vouchſafed no anſwer at all.
+<pb n="23" facs="tcp:200073:14"/>As much to ſay, he had and would make good his word in the end, &amp;c. Thus ſhee in ſuch obedience to her Mothers inſtruction; He ſtanding in as much awe of them both, thoſe <hi>Philippian</hi> Dames. And ſo much for an <hi>Old Caſe</hi> new reported.</p>
+            <p>And as in the Goſpell the five Yoke of <hi>Oxen,</hi> theſe ſerves for <hi>OXFORDS Meridian,</hi> which belong to His Majeſties invitation: <hi>Hath MARIED a wife, and cannot Come, &amp;c.</hi> Yoak'd in the yeare, 1625. unequally. Alſo that Term of <hi>FOX,</hi> or <hi>OXFORD,</hi> to wit: Ominous to long Gownes; <hi>Samſon</hi> Com<g ref="char:EOLhyphen"/>panion too crafty for him; afords them that ſubject likewiſe to worke upon. So againe Laſtly: What Lacke yee? Doe you lacke Match, and Powder, or Cable-Ropes, or any Braſſe &amp;c: Fetters toward Field-pieces, or long Haire any to weare? Or <hi>Iriſh Withs?</hi> Of theſe as much as yee pleaſe: <hi>SAMSON</hi> is provided for you, Bound to ſerve is; as long as he Lives: Even hee with thoſe grinding Gun-powder. That Mother and Daughter in the <hi>GOSPELL: Two women ſhall be grinding &amp;c.</hi> The laſt dayes watch-word, ſo much ſhall hereof ſuffice. Onely theſe, (<hi>Matt</hi> 24.) Then <hi>ſhall two bee in the Field, &amp;c.</hi> As it ſerves for this yeare 1642. with the ſevententh hundred yeare: So <hi>Samſons</hi> ſacrificing here his Life. Hee bearing as it were, the gates of Hell and Death:
+<pb n="24" facs="tcp:200073:15"/>Alſo, theſe beares date about this preſent <hi>EASTER,</hi> ſet forth in Honour of the glorious Reſurrection, his Life, and End.</p>
+            <p>And hetherto from Thence &amp;c. Your Silence on all ſides, which concludes Conſent: Wherefore I Conjure and Charge the aforeſaid <hi>Evill Spirits, or Le<g ref="char:EOLhyphen"/>gions, no more here to enter into this Kingdome from hence<g ref="char:EOLhyphen"/>forth:</hi> Goe downe into Hell, out into the fartheſt part of the Earth: <hi>get thee hence, &amp;c.</hi> Glory, Ho<g ref="char:EOLhyphen"/>nour, and Bleſſing.</p>
+            <closer>
+               <dateline>From the Bleſſed <hi>LADIE,</hi> 
+                  <date>her <hi>Day</hi> in <hi>Lent, &amp;c.</hi> 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="copyright_notice">
+            <p>None offer without <hi>Priviledge,</hi> to Re-print <hi>Theſe.</hi>
+            </p>
+            <pb facs="tcp:200073:15"/>
+         </div>
+      </back>
+   </text>
+</TEI>
